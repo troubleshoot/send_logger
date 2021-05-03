@@ -1,0 +1,7 @@
+ body {
+  background-image: url("/img/main.jpg");
+  background-size:100%;
+  background-repeat:no-repeat;
+  height: 100%;
+  width: 100%;
+}
